@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, Fritz Nanab
+#### Google Certified Data Analyst
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**FritzNanab/FritzNanab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As a Data Analyst, I like diving into the unknown and find interesting threads to pursue, all with the aim of revealing insights which solve customer issues or help grow the business. By living in and examining large data sets, I endeavor to understand what is really happening to enable the business to make better informed decisions.
 
-Here are some ideas to get you started:
+I am also a storyteller, transforming complex analyses and datasets into simple, absorbable insights that can be widely understood by the business and organization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: Data Aggregation | Data Analytics | Data Calculations | Data Ethics
+
+- 🔭 I’m currently working on becoming a World-Class Data Analyst 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/fritznanab//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/fritznanab/)  
+
