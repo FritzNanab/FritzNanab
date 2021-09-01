@@ -1,4 +1,5 @@
 <img src = "https://github.com/FritzNanab/FritzNanab/blob/main/Google_Cloud_DataAnalytics.gif" />
+
 ## FRITZ NANAB
 #### Google Certified Data Analyst
 
