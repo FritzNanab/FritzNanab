@@ -1,6 +1,6 @@
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 ### Hi there 👋, Fritz Nanab
 #### Google Certified Data Analyst
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 As a Data Analyst, I like diving into the unknown and find interesting threads to pursue, all with the aim of revealing insights which solve customer issues or help grow the business. By living in and examining large data sets, I endeavor to understand what is really happening to enable the business to make better informed decisions.
 
