@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<img src = "https://github.com/FritzNanab/FritzNanab/blob/main/Google_Cloud_DataAnalytics.gif" />
 ## FRITZ NANAB
 #### Google Certified Data Analyst
 
